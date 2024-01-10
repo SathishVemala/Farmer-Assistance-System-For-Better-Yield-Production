@@ -15,6 +15,6 @@ IoT course.
 
 ● Outcome: This project helps the farmers for better yielding of crops.
 
-● Course Completion [Certificate](https://drive.google.com/file/d/1GsjkkK8dIxn4q_qlLmsc5UCme2hE11NE/view?usp=sharing)
+● Course Completion: [Certificate](https://drive.google.com/file/d/1GsjkkK8dIxn4q_qlLmsc5UCme2hE11NE/view?usp=sharing)
 
 ● Watch Demo: [Click Here](https://drive.google.com/file/d/1JZakwyb0fHsEQXw8KaWc0EzAAAjyqYBs/view?usp=sharing)

@@ -28,6 +28,18 @@
 ● I have gained some knowledge in introduction to IoT from Cisco. And got course completion certificate for completing Cisco Networking Academy® Introduction to
 IoT course. 
 
+RESULTS AND DISCUSSION:
+
+● After registration of the devices with the home gateway, to control the IoT 
+devices remotely using a tablet. The registered IoT devices can be 
+viewed on the tablet.
+
+● The devices can be manually operated as well as the values can be 
+viewed and monitored in real-time.
+
+● It shows the status of the IoT devices registered with the home gateway. 
+These devices can be manually as well as automatically monitored.
+
 ● Goal: To create a smart irrigation system using Cisco packet tracer.
 
 ● Tools used: Cisco packet tracer simulation tool. 

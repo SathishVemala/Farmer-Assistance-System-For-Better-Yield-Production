@@ -2,6 +2,15 @@
 
 ● This is my final year project. 
 
+  Components Used:
+  
+  ● Home Gateway
+  ● Temperature Sensor
+  ● Humidity Monitor
+  ● Wind Detector
+  ● Siren
+  ● Water Sprinkler
+
 ● The main motive of this project is to consume less amount of water and better yielding of crops. 
 
 ● With the help of this project farmers gain some knowledge on technology.

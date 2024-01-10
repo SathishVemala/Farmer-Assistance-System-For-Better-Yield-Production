@@ -2,6 +2,16 @@
 
 ● This is my final year project. 
 
+● Goal: To create a smart irrigation system using Cisco packet tracer.
+
+● Tools used: Cisco packet tracer simulation tool.
+
+● Outcome: This project helps the farmers for better yielding of crops.
+
+● Course Completion Certificate
+
+● Watch Demo: Click Here
+
   Components Used:
   
   ● Home Gateway
@@ -39,13 +49,3 @@ viewed and monitored in real-time.
 
 ● It shows the status of the IoT devices registered with the home gateway. 
 These devices can be manually as well as automatically monitored.
-
-● Goal: To create a smart irrigation system using Cisco packet tracer.
-
-● Tools used: Cisco packet tracer simulation tool. 
-
-● Outcome: This project helps the farmers for better yielding of crops.
-
-● Course Completion [Certificate](https://drive.google.com/file/d/1GsjkkK8dIxn4q_qlLmsc5UCme2hE11NE/view?usp=sharing)
-
-● Watch Demo: [Click Here](https://drive.google.com/file/d/1JZakwyb0fHsEQXw8KaWc0EzAAAjyqYBs/view?usp=sharing)

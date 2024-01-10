@@ -5,10 +5,15 @@
   Components Used:
   
   ● Home Gateway
+  
   ● Temperature Sensor
+  
   ● Humidity Monitor
+  
   ● Wind Detector
+  
   ● Siren
+  
   ● Water Sprinkler
 
 ● The main motive of this project is to consume less amount of water and better yielding of crops. 

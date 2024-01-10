@@ -25,6 +25,7 @@
   ● Water Sprinkler
   
   SYSTEM ARCHITECTURE:
+  
 
   ![image](https://github.com/SathishVemala/Farmer-Assistance-System-For-Better-Yield-Production/assets/92301059/82f8a6a9-f1b8-452d-86c5-06e51e8d2465)
 

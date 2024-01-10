@@ -8,9 +8,9 @@
 
 ● Outcome: This project helps the farmers for better yielding of crops.
 
-● Course Completion Certificate
+● Course Completion [Certificate]
 
-● Watch Demo: Click Here
+● Watch Demo: [Click Here]
 
   Components Used:
   
@@ -49,3 +49,18 @@ viewed and monitored in real-time.
 
 ● It shows the status of the IoT devices registered with the home gateway. 
 These devices can be manually as well as automatically monitored.
+
+CONCLUSION AND FUTURE SCOPE:
+
+● A smart irrigation system is implemented using the Cisco packet 
+tracer. A home gateway to register the devices and control them using 
+a tablet.
+
+● All the IoT devices connected to the home gateway can be monitored 
+manually as well as remotely by the user. The results prove that there 
+is an opportunity of applying this model in real life. 
+
+● It also makes it convenient for the user to access all the devices 
+through the smartphone. In the field of IoT, ensuring security should be 
+a priority. Since the IoT devices are interconnected to each other, the 
+network should be secured.

@@ -1,7 +1,5 @@
 # Farmer-Assistance-System-For-Better-Yield-Production
 
-● This is my final year project. 
-
 ● Goal: To create a smart irrigation system using Cisco packet tracer.
 
 ● Tools used: Cisco packet tracer simulation tool.
